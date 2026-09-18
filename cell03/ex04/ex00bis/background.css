@@ -1,0 +1,11 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+
+#btn {
+	display: block;
+	margin: 20px;
+	padding: 12px 24px;
+	font-size: 1.2em;
+}
